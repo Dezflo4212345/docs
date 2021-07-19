@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!--XBRL Document Created with Wdesk from Workiva-->
+<!-- -->
+<link:linkbase xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/BarChartData" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#BarChartData" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/Class" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#ClassOnly" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/Defaults" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#Defaults" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/ExpenseExample" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#ExpenseExample" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/ExpenseExampleNoRedemption" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#ExpenseExampleNoRedemption" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/MarketIndexPerformanceData" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#MarketIndexPerformanceData" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/OperatingExpensesData" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#OperatingExpensesData" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/PerformanceMeasure" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#PerformanceMeasureOnly" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/PerformanceTableData" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#PerformanceTableData" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/Prospectus" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#ProspectusOnly" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/RiskReturn" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#RiskReturn" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/RiskReturnDetail" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#RiskReturnDetail" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/RiskReturnDetailData" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#RiskReturnDetailData" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/Series" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#SeriesOnly" xlink:type="simple" />
+  <link:roleRef roleURI="http://xbrl.sec.gov/rr/role/ShareholderFeesData" xlink:href="http://xbrl.sec.gov/rr/2012/rr-2012-01-31.xsd#ShareholderFeesData" xlink:type="simple" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/BarChartData" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/Class" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/Defaults" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/ExpenseExample" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/ExpenseExampleNoRedemption" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/MarketIndexPerformanceData" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/OperatingExpensesData" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/PerformanceMeasure" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/PerformanceTableData" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/Prospectus" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/RiskReturn" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/RiskReturnDetail" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/RiskReturnDetailData" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/Series" xlink:type="extended" />
+  <link:calculationLink xlink:role="http://xbrl.sec.gov/rr/role/ShareholderFeesData" xlink:type="extended" />
+</link:linkbase>
